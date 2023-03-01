@@ -9,6 +9,8 @@ import numpy as np
 import matplotlib.pylab as plt
 
 
+
+
 # モデルを作る
 Test_NN = Sequential()
 Test_NN.add(Dense(4, input_dim=3))
